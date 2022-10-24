@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=aprendizaje-estadistico&theme=dark" />
 </a>
+
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=modelacion-basyesiana&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=fundamentos&theme=dark" />
+</a>
