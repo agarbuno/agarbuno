@@ -26,8 +26,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=fundamentos&theme=dark" />
 </a>
 
-
 <br />
+<br />
+
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=aprendizaje-estadistico&theme=dark" />
 </a>
