@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 [![Alfredo Garbuno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarbuno&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Courses 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=simulacion&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=aprendizaje-estadistico&theme=dark" />
+</a>
