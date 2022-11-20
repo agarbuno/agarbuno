@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 [![Alfredo Garbuno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarbuno&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Courses 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/agarbuno/simulacion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=simulacion&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/agarbuno/fundamentos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=fundamentos&theme=dark" />
 </a>
 
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/agarbuno/aprendizaje-estadistico">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=aprendizaje-estadistico&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/agarbuno/modelacion-bayesiana">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=modelacion-bayesiana&theme=dark" />
 </a>
