@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 -->
 
 ### Courses 
+
+These are the courses that I taught at ITAM while I was an assistant professor and director of the Msc in Data Science. 
+
 <a href="https://github.com/agarbuno/simulacion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agarbuno&repo=simulacion&theme=dark" />
 </a>
