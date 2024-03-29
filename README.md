@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### My GitHub Stats
-[![Alfredo Garbuno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarbuno&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Alfredo Garbuno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarbuno&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### Courses 
 <a href="https://github.com/agarbuno/simulacion">
