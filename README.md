@@ -6,6 +6,9 @@
 - 👯 I’m looking to collaborate on research projects
 - 💬 Ask me about Bayesian inference, Machine Learning, Applied Probability
 - 📖 You can find the material I use for teaching below in Spanish
+- 🎸 I play guitar and started learning audio engineering
+- 💥 I read manga
+- 🏀 I play basketball
 <!--
 **agarbuno/agarbuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
