@@ -1,14 +1,14 @@
 ### Hello, this Alfredo Garbuno 🤓
 
-- 🔭 I’m currently working in BBVA as leader of Advanced Analytics 
+- 🔭 I’m currently working in BBVA as discipline leader of Advanced Analytics 
 - 🌱 I’m an Applied Mathematician / Data Scientist with research interest in Uncertainty Quantification
 - 🎓 I have a Phd in Engineering and Computational Mathematics
 - 👯 I’m looking to collaborate on research projects
-- 💬 Ask me about Bayesian inference, Machine Learning, Applied Probability
+- 💬 Ask me about Bayesian inference, Machine Learning, Applied Probability, Numerics, Stochastic Processes or any intersection of the above 
 - 📖 You can find the material I use for teaching below in Spanish
 - 🎸 I play guitar and started learning audio engineering
-- 💥 I read manga
-- 🏀 I play basketball
+- 💥 I read manga and enjoy fantasy based stories 
+- 🏀 I play basketball and I am currently training
 <!--
 **agarbuno/agarbuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
